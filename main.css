@@ -1,0 +1,78 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@100..900&display=swap');
+
+/* ----- MAIN & LAYOUT ----- */
+html
+{
+    background-color:black;
+}
+
+body
+{
+    font-family:'Montserrat','Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: gainsboro;
+    border: solid 3px;
+    border-radius: 0px 0px 50px  50px;
+    margin:50px;
+    padding:25px 50px 50px 50px;
+}
+
+/* ----- TEXT STYLES ----- */
+p
+{
+    margin-top:0em;
+    margin-bottom:1em;
+}
+
+.center
+{
+    text-align:center;
+}
+
+
+/* ----- HEADINGS ----- */
+h1
+{
+    font-size: 30px;
+    margin-top:0em;
+}
+
+h2
+{
+    font-size:25px;
+    margin-bottom:.5em;
+}
+
+h3
+{
+    font-size:20px;
+    margin-bottom:.5em;
+}
+
+h4
+{
+  font-size:17px;
+  margin-bottom:.5em;
+}
+
+h5
+{
+    font-size:15px;
+    margin-top:0em;
+    margin-bottom:.5em;
+}
+
+/* ----- LINKS ----- */
+a
+{
+    color:#8B008B;
+}
+
+a:hover
+{
+    text-decoration:none;
+}
+
+a:visited
+{
+    color:#8B648B;
+}
